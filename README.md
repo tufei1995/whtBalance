@@ -20,7 +20,7 @@
 将修改完毕后的wht.php上传到网站目录，访问http://hostname/wht.php?id=武汉通卡号 即可开始查询。
 
 ### 3.示例 
-[武汉通余额查询](https://wht.whutech.com/)
+[武汉通余额查询](http://wht.whutech.com/)
 
-作者 [@随风飘扬](https://www.suifengpiaoyang.cn/)     
+作者 [@随风飘扬](http://www.suifengpiaoyang.cn/)     
 2017 年 05月 05日
